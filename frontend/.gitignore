@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.local
+
+# Next.js
+.next/
+
+# Build
+dist/
+build/
+
+# History
+.history/
+
+# Logs
+*.log
